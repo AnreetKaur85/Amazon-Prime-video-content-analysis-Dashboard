@@ -45,6 +45,7 @@ To make this dashboard even more powerful, the following features could be integ
 ## 🌐 How This is Useful
 
 This dashboard allows decision-makers to:
+
 ⚡ **Accelerate Decision-Making**: Eliminate hours of manual data wrangling with real-time, intuitive visuals.
 
 📈 **Drive Strategic Content Planning**: Identify popular genres, trending content categories, and market gaps to inform acquisitions and programming decisions.
